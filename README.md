@@ -10,7 +10,7 @@ A complete implementation of a dynamic array container (`Vector`) in C++, modele
 ✅ Dynamic memory management with geometric resizing  
 ✅ Full iterator support (const and non-const)  
 ✅ Exception-safe operations  
-✅ Copy/move semantics support  
+✅ Copy semantics support  
 
 ## **Technical Implementation**  
 
